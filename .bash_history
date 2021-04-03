@@ -775,3 +775,121 @@ sudo git push
 git push
 sudo git add .
 git push
+ls
+git commit
+git branch 
+git checkout development
+git add .
+sudo git add .
+git commit
+git push
+git checkout main
+git merge development
+sudo git add .
+git commit
+sudo git add .
+git commit
+git push
+ls
+git branch
+git push
+ls
+cd ..
+ls
+cd ubuntu/
+cd .ssh
+ls
+chmod 644 id_ed25519
+cd ..
+ls
+git push
+cd .ssh
+ls
+chmod 600 id_ed25519
+ls
+ls -la
+cd ..
+ls
+git push
+git branch development 
+git checkout development 
+git push 
+git remote set-url origin 
+git push
+git remote -v
+git remote origin
+git remote set-url --add upstream git@github.com:AdamHeight/spring2021-ceg2350-AdamHeight.git
+git remote add upstream git@github.com:AdamHeight/spring2021-ceg2350-AdamHeight.git
+git push upstream 
+git checkout main 
+git push upstream 
+git push
+git push upstream 
+git branch
+sudo git add .
+git commit
+git push upstream 
+git merge development 
+git push upstream 
+git fetch upstream 
+ls
+cd spring2021-ceg2350-AdamHeight/
+ls
+cd ..
+ls
+sudo git add .
+git commit
+git push upstream 
+cd spring2021-ceg2350-AdamHeight/
+ls
+chmod -R 777 Lab02
+ls
+cd ..
+git add .
+git commit
+git push
+git push upstream 
+git push -f upstream main
+ls
+cd spring2021-ceg2350-AdamHeight/
+git add .
+git commit 
+git push upstream
+git push
+git push -f
+screen
+cd spring2021-ceg2350-AdamHeight/Lab08
+ls
+ps
+./infinity.sh 
+source infinity.sh 
+ls
+vim still-going.txt 
+rm still-going.txt 
+ls
+./infinity.sh 
+source infinity.sh
+ls
+./infinity.sh bg
+./infinity.sh &
+jobs
+kill &1
+jobs
+kill &2
+kill &3
+kill &0
+kill &1
+jobs
+man kill
+sudo kill %1
+kill %1
+jobs
+kill %2
+jobs
+screen -dm ./infinity.sh 
+screen -dm infinity.sh
+screen
+infinity.sh
+./infinity.sh 
+exit
+exit
