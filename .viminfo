@@ -15,13 +15,13 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1617426317,,"wq"
+|2,0,1619232386,,"wq"
 :q
-|2,0,1617425891,,"q"
+|2,0,1618634643,,"q"
+:w
+|2,0,1618631705,,"w"
 :wq!
 |2,0,1617419542,,"wq!"
-:w
-|2,0,1616817208,,"w"
 :q!
 |2,0,1616816225,,"q!"
 :w!
@@ -46,230 +46,280 @@ $
 |3,1,1,1,1,0,1613795669,""
 
 # File marks:
-'0  22  248  ~/spring2021-ceg2350-AdamHeight/Lab08/README.md
-|4,48,22,248,1617426317,"~/spring2021-ceg2350-AdamHeight/Lab08/README.md"
-'1  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,49,1,0,1617425891,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
-'2  5  4  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,50,5,4,1617425727,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
-'3  5  2  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,51,5,2,1617425641,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
-'4  5  3  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,52,5,3,1617425363,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
-'5  5  3  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,53,5,3,1617425363,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
-'6  7  20  ~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh
-|4,54,7,20,1617425301,"~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh"
-'7  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,55,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
-'8  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,56,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
-'9  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,57,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
+'0  51  20  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,48,51,20,1619232386,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+'1  44  25  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,49,44,25,1618634648,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+'2  1  0  ~/.ssh/authorized_keys
+|4,50,1,0,1618633838,"~/.ssh/authorized_keys"
+'3  27  2  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,51,27,2,1618631733,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+'4  27  2  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,52,27,2,1618631733,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+'5  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,53,40,2,1618458371,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+'6  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,54,40,2,1618458371,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+'7  1  0  ~/README.md
+|4,55,1,0,1618457680,"~/README.md"
+'8  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,56,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+'9  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,57,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
 
 # Jumplist (newest first):
--'  22  248  ~/spring2021-ceg2350-AdamHeight/Lab08/README.md
-|4,39,22,248,1617426317,"~/spring2021-ceg2350-AdamHeight/Lab08/README.md"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425891,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  5  4  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,5,4,1617425727,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  5  4  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,5,4,1617425727,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  5  2  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,5,2,1617425641,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  5  2  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,5,2,1617425641,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  5  3  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,5,3,1617425363,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  5  3  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,5,3,1617425363,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  7  20  ~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh
-|4,39,7,20,1617425301,"~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh"
--'  7  20  ~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh
-|4,39,7,20,1617425301,"~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh"
--'  7  20  ~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh
-|4,39,7,20,1617425301,"~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh"
--'  7  20  ~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh
-|4,39,7,20,1617425301,"~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh"
--'  7  20  ~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh
-|4,39,7,20,1617425301,"~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh"
--'  7  20  ~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh
-|4,39,7,20,1617425301,"~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh"
--'  7  20  ~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh
-|4,39,7,20,1617425301,"~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh"
--'  7  20  ~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh
-|4,39,7,20,1617425301,"~/spring2021-ceg2350-AdamHeight/Lab08/infinity.sh"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,1,0,1617425176,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,1,0,1617425176,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,1,0,1617425176,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,1,0,1617425176,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,1,0,1617425176,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh
-|4,39,1,0,1617425176,"~/spring2021-ceg2350-AdamHeight/Lab08/polo.sh"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617425169,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  3  8  ~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh
-|4,39,3,8,1617425157,"~/spring2021-ceg2350-AdamHeight/Lab08/marco.sh"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
--'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab08/location.txt
-|4,39,1,0,1617424942,"~/spring2021-ceg2350-AdamHeight/Lab08/location.txt"
+-'  51  20  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,51,20,1619232386,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1619229991,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  44  25  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,44,25,1618634648,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  44  25  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,44,25,1618634648,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1618633838,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1618633838,"~/.ssh/authorized_keys"
+-'  27  2  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,27,2,1618631783,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  27  2  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,27,2,1618631783,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  27  2  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,27,2,1618631733,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  27  2  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,27,2,1618631733,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  27  2  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,27,2,1618631733,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  27  2  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,27,2,1618631733,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,1,0,1618626273,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,1,0,1618626273,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,1,0,1618626273,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,1,0,1618626273,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,1,0,1618626273,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  1  0  ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+|4,39,1,0,1618626273,"~/spring2021-ceg2350-AdamHeight/Lab10/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618458371,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618458371,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618458371,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618458371,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618458371,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618458371,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1618457680,"~/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  40  2  ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+|4,39,40,2,1618200047,"~/spring2021-ceg2350-AdamHeight/Lab09/README.md"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618193112,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
+-'  1  0  /etc/hostname
+|4,39,1,0,1618192933,"/etc/hostname"
 
 # History of marks within files (newest to oldest):
+
+> ~/spring2021-ceg2350-AdamHeight/Lab09/README.md
+	*	1619232383	0
+	"	51	20
+	^	51	21
+	.	51	19
+	+	25	27
+	+	24	24
+	+	39	3
+	+	40	2
+	+	39	42
+	+	40	133
+	+	50	59
+	+	47	0
+	+	51	19
+
+> ~/spring2021-ceg2350-AdamHeight/Lab10/README.md
+	*	1618634643	0
+	"	44	25
+	^	44	26
+	.	44	11
+	+	8	102
+	+	10	1
+	+	9	0
+	+	8	35
+	+	15	2
+	+	14	8
+	+	16	60
+	+	23	69
+	+	27	17
+	+	31	38
+	+	34	3
+	+	33	23
+	+	41	2
+	+	40	21
+	+	42	58
+	+	43	56
+	+	44	11
+
+> ~/.ssh/authorized_keys
+	*	1618633836	0
+	"	1	0
+
+> ~/README.md
+	*	1618457675	0
+	"	1	0
+
+> /etc/hostname
+	*	1618193110	0
+	"	1	0
 
 > ~/spring2021-ceg2350-AdamHeight/Lab08/README.md
 	*	1617426315	0
@@ -603,10 +653,6 @@ $
 	^	20	3
 	.	20	3
 	+	20	3
-
-> ~/README.md
-	*	1612583555	0
-	"	1	0
 
 > ~/Lab02/README.md
 	*	1612132132	0

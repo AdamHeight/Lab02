@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/ubuntu",
+  "password": false,
+  "pid": 18286,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "5e3849056723b8339ddda3cc8fa285227db4c56bf33069b6",
+  "url": "http://localhost:8888/"
+}

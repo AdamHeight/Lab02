@@ -893,3 +893,515 @@ infinity.sh
 ./infinity.sh 
 exit
 exit
+cd spring2021-ceg2350-AdamHeight/Lab08
+ls
+screen
+screen -list
+attach 29833
+screen -r 29988.pts-2.ip-10-0-0-25 
+screen -list
+screen -r 29818.infinity.sh 
+screen -list
+touch marco.sh
+touch polo.shs
+ls
+rm polo.shs 
+touch polo.sh
+ls
+pwd
+vim marco.sh 
+marco
+./marco.sh
+chmod 755 marco.sh 
+marco
+./marco.sh 
+vim marco.sh 
+./marco.sh 
+ls
+vim location.txt 
+vim marco.sh 
+./marco.sh 
+ls
+vim location.txt 
+./marco.sh 
+vim location.txt 
+cd ..
+./marco.sh
+cd Lab08
+vim marco.sh 
+./marco.sh
+vim location.txt 
+vim polo.sh 
+./polo.sh
+chmod 755 polo.sh 
+./polo.sh 
+vim polo.sh 
+./polo.sh 
+vim polo.sh 
+. ./polo.sh 
+ls
+cd spring2021-ceg2350-AdamHeight/
+ls
+mkdir Lab08
+cd Lab08
+touch README.md
+vim README.md 
+cd ..
+ls
+cd ..
+ls
+git add .
+git commit 
+ls
+git push 
+cd spring2021-ceg2350-AdamHeight/
+git add .
+git commit 
+git push 
+cd spring2021-ceg2350-AdamHeight/Lab08
+ls
+vim infinity.sh 
+pwd
+vim infinity.sh 
+ls
+pwd
+vim location.txt 
+cd ..
+./marco.sh
+echo $PATH
+cd Lab08
+cd spring2021-ceg2350-AdamHeight/
+cd Lab08
+touch infinity
+vim infinity 
+mv infinity infinity.sh
+ls
+chmod 755 infinity.sh 
+./infinity.sh 
+ls
+vim still-going.txt 
+./infinity.sh 
+ls
+vim still-going.txt 
+vim infinity.sh 
+rm still-going.txt 
+ls
+./infinity.sh 
+vim still-going.txt 
+pidof
+man pidof
+pidof terminal
+ps
+ps\
+ps
+ls
+ps
+man ps
+ps -ef
+kill 29504
+ps -ef
+ps -ef | grep infinity.sh
+jobs -l
+jobs
+jobs 
+!
+jobs
+ps -ef
+kill 29585
+ps -ef
+kill 29591
+ps -ef
+ps -ef | grep infinity.sh
+kill 29599
+kill 29085
+ps -ef | grep infinity.sh
+jobs
+install jobs
+set -o
+jobs
+kill %1
+jobs
+screen -d -m infinity.sh
+screen -list
+ps
+ps -l
+ps -ef
+echo $PATH
+export PATH=$PATH:/home/ubuntu/spring-ceg2350-AdamHeight/Lab08
+echo $PATH
+echo $0
+cd .
+ls
+cd ..
+ls
+cd ..
+ls
+ls -lah
+cd ..
+ls
+cd boot
+ls
+cd ..
+cd run
+ls
+cd ..
+ls
+cd home
+ls
+ls -lah
+vim .bashrc
+ls
+ls -la ~/ | more
+vim .bashrc
+vim ~/.bashrc 
+echo $PATH
+./marco.sh
+cd ..
+update
+sudo apt-get upgrade
+sudo restart
+sudo reboot
+ls
+cd spring2021-ceg2350-AdamHeight/
+ls
+mkdir Lab09
+cd Lab09
+touch README.md
+vim README.md 
+apt list upgrade
+ls
+cd spring2021-ceg2350-AdamHeight/
+ifconfig
+curl ipinfo.io
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd etc
+ls
+vim hostname 
+ip link show
+vim hostname
+ifconfig
+netstat -r
+netstat
+sudo netstat -r
+ip route
+install jupyter
+install --help
+jupyter
+sudo apt install jupyter-core
+curl localhost:8888
+man jupyter
+jupyter notebook --help
+sudo snap install jupyter
+cd ..
+;s
+ls
+cd home/
+ls
+cd ubuntu/
+ls
+cd spring2021-ceg2350-AdamHeight/
+jupyter notebook --help
+man jupyter
+jupyter
+conda install -c conda-forge notebook
+pip install notebook
+sudo apt install python-pip
+pip install jupyterlab
+python --version
+sudo apt update
+sudo apt install python3.8
+pip install jupyterlab
+python --version
+python3 --version
+sudo update-alternatives --set python /usr/bin/python3.6
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.4.1
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.4 1
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
+python3 --version
+python --version
+pip install jupyterlab
+curl localhost:8888
+man curl
+man jupyter notebook
+jupyter notebook --help\
+jupyter notebook --help
+jupyter notebook
+sudo apt uninstall jupyter
+sudo apt remove jupyter
+sudo apt autoremove
+jupyter notebook --help
+man jupyter
+man apt
+sud apt show jupyter
+sudo apt show jupyter
+sudo apt remove jupyter-core
+jupyter notebook --help
+pip install jupyterlab
+jupyter notebook --help
+./jupyter notebook --help
+sudo pip install jupyter
+jupyter notebook --help
+sudo jupyter notebook --help
+sudo jupyter notebook --no-browser
+sudo jupyter notebook
+sudo jupyter notebook --help
+sudo jupyter notebook --no-browser --allow-root
+jupyter notebook
+export PATH="$HOME/.local/bin:$PATH"
+jupyter notebook --no-browser
+/etc/init.d/httpd status
+jupyter notebook --no-browser
+reboot
+sudo reboot
+curl localhost:8888
+sudo curl localhost:8888
+curl 10.0.0.25:8888
+man ufw
+sudo ufw allow 8888
+curl localhost:8888
+curl 10.0.0.25:8888
+sudo curl 10.0.0.25:8888
+sudo curl localhost:8888
+ssh -N -f -i your_private_key -L localhost:8888 ubuntu@10.0.0.25
+ssh -N -f -i ceg2350-vmcert -L localhost:8888:localhost:8888 ubuntu@10.0.0.25
+man ssh
+ssh -N -f -i /home/aheight/ceg2350-vmcert -L localhost:8888:localhost:8888 ubuntu@ip-10-0-0-25
+ls
+vim README.md 
+ls
+cd ..
+ls
+cd ..
+ls
+cd media/
+ls
+ls -lah
+cd ..
+cd etc
+ls
+cd ca-certificates/
+ls
+cd update.d/
+ls
+cd ..
+ls
+cd ..
+ls -lah
+cd ..
+ls
+cd home/
+ls -lah
+cd etc
+cd ..
+ls
+cd etc
+ls
+cd .ssh
+ls -lah | grep .ssh
+ls -a | grep .ssh
+cd ssh
+ls
+ls
+cd spring2021-ceg2350-AdamHeight/
+ls
+cd Lab09
+ls
+vim README.md 
+jupyter notebook --no-browser
+cd ..
+ls
+cd etc/
+ls
+cd ..
+ls
+cd media/
+ls
+cd ..
+cd home/
+ls
+cd ubuntu/
+ls
+cd ..
+ls
+ls -lah
+pwd
+find conda
+cd ..
+ls
+man find
+find conda
+find . -name conda*
+sudo find . -name conda*
+sudo find . -name *conda*
+cd home/ubuntu/spring2021-ceg2350-AdamHeight/
+ls
+cd spring2021-ceg2350-AdamHeight/Lab10
+ls
+touch README.md]
+ls
+rm README.md] 
+ls
+rm README.md
+touch README.md
+vim README.md 
+sudo apt upgrade
+ls
+cd spring2021-ceg2350-AdamHeight/
+ls
+mkdir Lab10
+python --version
+curl -O https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
+ls
+sha256sum Anaconda3-2020.11-Linux-x86_64.sh
+tail -n +589 Anaconda3-2020.11-Linux-x86_64.sh | md5sum -
+bash ~/Downloads/Anaconda3-2020.02-Linux-x86_64.sh
+bash Anaconda3-2020.02-Linux-x86_64.sh
+ls
+bash Anaconda3-2020.11-Linux-x86_64.sh 
+ls
+cd ..
+ls
+cd spring2021-ceg2350-AdamHeight/
+cd ..
+ls
+pwd
+source /home/ubuntu/anaconda3/bin/activate
+cd ..
+ls
+cd ubuntu/
+cd anaconda3
+ls
+untar preconda.tar.bz2 
+man tar
+./conda.exe 
+conda init\
+conda init
+source ~/.bashrc
+sudo bash Anaconda3-2020.11-Linux-x86_64.sh
+cd ..
+ls
+cd spring2021-ceg2350-AdamHeight/
+ls
+sudo bash Anaconda3-2020.11-Linux-x86_64.sh
+cd ..
+ls
+rm anaconda3/
+sudo rm anaconda3/
+rm -r anaconda3/
+ls
+rm -r anaconda3/
+ls
+cd spring2021-ceg2350-AdamHeight/
+ls
+sudo bash Anaconda3-2020.11-Linux-x86_64.sh
+export
+cd ..
+ls
+du -sh /home/ubuntu/
+du -sh /home
+man tar
+man tar | grep -f
+man tar | grep "-f"
+man tar | grep '-f'
+man tar
+ls
+tar -f spring2021-ceg2350-AdamHeight/
+tar -cvf lab10.tar spring2021-ceg2350-AdamHeight/
+ls
+rm lab10.tar
+ls
+tar -cvf space
+cd ..
+ls
+cd ubuntu/
+ls
+tar -cvzf space
+tar -cvf space spring2021-ceg2350-AdamHeight/
+ls
+sudo apt autoremove
+sudo rm /boot/initrd.img-5.4.0-1039-aws
+sudo rm /boot/vmlinuz-5.4.0-1
+sudo rm /boot/initrd.img-5.4.0-1041-aws
+sudo rm /boot/vmlinuz-5.4.0-1041-aws
+df -h
+sudo rm -rf /lib/modules/5.4.0-1035-aws
+sudo rm -rf /lib/modules/5.4.0-1037-aws
+sudo rm -rf /lib/modules/5.4.0-1038-aws
+sudo rm -rf /lib/modules/5.4.0-1039-aws
+df -h
+sudo apt autoremove
+ls
+df -h
+git gc --aggressive --prune=now
+ls
+df -h
+rm -r anaconda3/
+sudo rm -r anaconda3/
+ls
+tar -cvf lab10.tar space spring2021-ceg2350-AdamHeight/
+ls
+df
+du -sh /home/ubuntu/lab10.tar 
+cat lab10.tar 
+ls
+gzip lab10.tar.gz lab10.tar
+gzip lab10.tar
+ls
+du -sh /home/ubuntu/lab10.tar.gz
+du -sh /home/ubuntu/spring2021-ceg2350-AdamHeight/
+du -sh /home/ubuntu/space
+md5sum lab10.tar.gz 
+sha256sum lab10.tar.gz 
+man curl
+cd ..
+ls
+cd home/
+ls
+cd ubuntu/
+ls
+cd .ssh
+vim authorized_keys 
+cd ..
+ls
+mv id_rsa.pub /home/ubuntu/.ssh/
+ls
+cd .ssh
+ls
+cat id_rsa.pub >> authorized_keys 
+ls
+cd ..
+ls
+git add .
+cd spring2021-ceg2350-AdamHeight/
+git commit .
+git commit 
+git branch 
+git commit
+rm Anaconda3-2020.11-Linux-x86_64.sh 
+ls
+cd ..
+ls
+rm lab10.tar.gz 
+ls
+cd spring2021-ceg2350-AdamHeight/
+git commit
+git add .
+ls
+git add .
+git commit
+git push
+ls
+cd spring2021-ceg2350-AdamHeight/
+cd Lab10
+vim README.md 
+jupyter notebook --no-browser
+lsof | grep listening
+man lsof
+sudo lsof -i -P -n | gr
+pidof python3
+sudo kill -9 15317
